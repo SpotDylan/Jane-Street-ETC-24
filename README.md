@@ -7,5 +7,5 @@ Initially, we figured a spread strategy could be the most profitable. The idea w
 # Post-Mortem
 We placed 12th place with a final profit of $676,069. Our competition strategy was fairly simplistic, but it at least earned a net profit.
 
-# Branches
-There are two branches of this code `competition` was directly what we submitted during the competition. `main` is what we improved on post-competition, although this is untested as we have not been able to pass this through the servers.
+# Versions
+There are two versions of this code. `bot` was directly what we submitted during the competition. `botImproved` is what I improved on post-competition, although this is untested as we have not been able to pass this through the servers.
