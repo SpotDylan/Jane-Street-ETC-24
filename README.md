@@ -1,6 +1,4 @@
 # JaneStreet-ETC-24
-![AMP-pulse](https://github.com/user-attachments/assets/5fc21bd2-0d05-43bc-83be-42cf317d6934)
-
 Dylan's Submission for the Jane Street Electronic Trading Competition during the Academy of Math and Programming 2024
 
 
